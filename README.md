@@ -1,2 +1,2 @@
 # Flutter-Development-Projects
-Projects done while learning flutter
+Collection of flutter app projects made while learning flutter.
